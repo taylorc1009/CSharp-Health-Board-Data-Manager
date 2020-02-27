@@ -1,6 +1,6 @@
 # CSharp-Health-Board-Data-Manager
 
-## Edinburgh Napier University Coursework
+### Edinburgh Napier University Coursework
 
 An application built to validate, store and retreive data about staff, clients and staff visits to clients.
 
